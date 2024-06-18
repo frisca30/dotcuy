@@ -2,7 +2,7 @@
 # Dotcoin BOT
 Dotcoin bot. Subscribe my github and also give stars if you like this tool :) 
 
-Register Here : [DotCoin](https://t.me/dotcoin_bot?start=r_968480911)
+Register Here : [DotCoin](https://s.id/279FT)
 
 ## Installation
 
@@ -21,7 +21,6 @@ Install with python
 8. Paste di tokens.txt (apikey|authorization)
 
 ![](https://i.ibb.co/4Fq8rxw/Cuplikan-layar-2024-06-17-161603.png)
-![](https://i.ibb.co/JK38Zxb/Cuplikan-layar-2024-06-17-161633.png)
 
 
 ## Features
